@@ -1,0 +1,19 @@
+h1{
+  color: red;
+  font-size: 200%;
+  font-style: normal;
+  }
+  p{
+  color: gold;
+  font-size: 150%;
+  font-style: oblique;
+  background-color: blue;
+  }
+  #section {
+    font-size:200%;
+    color: red;
+  }
+  div{
+    color: black;
+    font-size: 200%
+  }
