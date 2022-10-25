@@ -24,5 +24,5 @@
 }
 
 //Output
-document.writeln("This is how you say your name in elvish"),
+document.writeln("This is how you say your name in elvish",
     sortUserName(), "</br>");
