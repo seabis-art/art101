@@ -5,7 +5,7 @@
  * (c) Copyright by Blub Corp.
  **/
 
- function sortUserName() {
+ function sortUserName(Sebastian) {
     var userName = window.prompt("Tell me your name");
     console.log("userName =", userName);
     // split the array
