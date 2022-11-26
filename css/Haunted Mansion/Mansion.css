@@ -1,0 +1,23 @@
+h1{
+  font-style: italic;
+  color: red;
+  font-size: 400;
+  font-weight: bold;
+}
+
+body{
+  background-image: url("house.jpg");
+  background-color: black;
+}
+
+a:link, a:visited {
+  background-color: black;
+  color: red;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  outline-color: red;
+  height: 100;
+  width: 400;
+}
